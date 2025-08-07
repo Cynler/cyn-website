@@ -27,4 +27,5 @@ dist-ssr
 .netlify
 
 # Custom scripts
+*.sh
 sync.sh
